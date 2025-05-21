@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>Melanie Montgomery | Data Portfolio</title>
+    <style>
+      body { font-family: Arial; max-width: 700px; margin: auto; padding: 20px; }
+      h1 { color: #333; }
+      .project { margin-bottom: 30px; }
+    </style>
+  </head>
+  <body>
+    <h1>Melanie Montgomery</h1>
+    <p>Finance-savvy analyst with 10+ years in corporate reporting, now using data science to drive better business decisions.</p>
+
+    <div class="project">
+      <h2>📊 Budget Dashboard (Power BI)</h2>
+      <p>Variance analysis dashboard using DAX. Viewable upon request.</p>
+    </div>
+
+    <div class="project">
+      <h2>🧾 EasyVisa (ML Model)</h2>
+      <p>Built model to predict visa approvals using boosting algorithms. <br> Tools: Python, Scikit-learn</p>
+    </div>
+
+    <div class="project">
+      <h2>📺 ShowTime OTT Analysis</h2>
+      <p>Used linear regression to predict first-day viewership for content. <br> <a href="https://github.com/montgomery9/ShowTime-OTT-Viewership-Analysis">View Project</a></p>
+    </div>
+
+    <p>📫 <a href="https://www.linkedin.com/in/montgomerymb/">LinkedIn</a></p>
+  </body>
+</html>
